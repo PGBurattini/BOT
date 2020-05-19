@@ -1,0 +1,11 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Este es un bot saludador para mis amigos de Freaky Team. Para saber mas acerca de mis proyectos: https://www.linkedin.com/in/patricio-burattini-212395190/",
+  "main": "bot.js",
+  "author": "The_DucKing",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
